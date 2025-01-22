@@ -9,7 +9,7 @@ Here is where you can contact me:
 - **E-Mail:** parenteorlando@yahoo.it
 - **LinkedIn:** [linkedin.com/in/orlando-parente-993a99123/](https://www.linkedin.com/in/orlando-parente-993a99123/)
 
-I live halfway between Rome and Naples. *My ideal is remote working (or hybrid)*, but you can contact me also if you are looking for a developer in *Roma/Naples and surrounding areas*.
+I live halfway between Rome and Naples. *My ideal is remote working (or hybrid)*, but you can contact me also if you are looking for a developer in *Rome/Naples and surrounding areas*.
 
 <!--
 👋
