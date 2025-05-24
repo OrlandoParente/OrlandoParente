@@ -3,7 +3,7 @@ In high school, I discovered programming and Linux. Since then, *Linux has becom
 
 Today, **I'm primarily a backend Java Spring Boot developer**. I like the Java style in general, and I'm ready to explore other parts of the Java world beyond Spring Boot. My focus is on the backend, but **I can handle the front-end** if needed (JavaScript, Thymeleaf, CSS, HTML, a little bit of Angular).  
 
-Check out my [Youtube channel](https://www.youtube.com/@OrlandoParente-xu1lb) for a video explation of my GitHub projects.
+Check out my [Youtube channel](https://www.youtube.com/@OrlandoParente-xu1lb) for a video explation of my GitHub projects. 
 
 Here is where you can contact me:  
 - **E-Mail:** parenteorlando@yahoo.it
